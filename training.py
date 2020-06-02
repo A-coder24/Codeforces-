@@ -1,4 +1,4 @@
-B. After Training
+"""B. After Training
 time limit per test2 seconds
 memory limit per test256 megabytes
 inputstandard input
@@ -30,7 +30,7 @@ inputCopy
 outputCopy
 1
 1
-1
+1 """
 from sys import stdin, stdout  
 n,m=map(int,input().split())
 basket=[0]*m

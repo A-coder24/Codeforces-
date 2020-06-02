@@ -3,7 +3,7 @@ time limit per test1 second
 memory limit per test256 megabytes
 inputstandard input
 outputstandard output
-Shubham has a binary string s. A binary string is a string containing only characters "0" and "1".
+Shubham has a binary string s. A binary string is a string containing only characters "0" and "1"
 
 He can perform the following operation on the string any amount of times:
 
